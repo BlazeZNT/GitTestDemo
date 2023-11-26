@@ -1,0 +1,9 @@
+1. git checkout -b 
+
+2.  fast-forward occurs changes no changes are made on the master file taht are on the branch. and vice versa.
+
+3. git checkout 
+
+4. git branch -d (name)
+
+5. commit then when error occurs, manually pick the changes from the 2 avaliable options then stage and commit the changes again 
